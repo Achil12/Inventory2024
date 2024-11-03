@@ -12,3 +12,4 @@ Systen Required
 - php 7.4 atau versi terbaru
 - apahe versi terbaru
 - mysql/mariadb versi terbaru
+- phpqrcode : https://github.com/t0k4rt/phpqrcode
