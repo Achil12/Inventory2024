@@ -8,7 +8,7 @@ Official Support
 - Ubuntu Server 20.04 (✅ Tested)
 - Raspberry Pi OS (✅ Tested)
 
-Systen Required 
+System Required 
 - php 7.4 atau versi terbaru
 - apahe versi terbaru
 - mysql/mariadb versi terbaru
