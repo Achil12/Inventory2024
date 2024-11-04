@@ -13,3 +13,5 @@ System Required
 - apahe versi terbaru
 - mysql/mariadb versi terbaru
 - phpqrcode : https://github.com/t0k4rt/phpqrcode
+
+# Update release : https://github.com/Achil12/Inventory2024/releases
